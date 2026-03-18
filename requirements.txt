@@ -1,0 +1,6 @@
+anomalib==2.2.0
+requests
+jupyterlab
+ipykernel
+ipywidgets
+pandas==2.3.3

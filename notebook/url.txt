@@ -1,0 +1,10 @@
+株式会社コンピュータマインド
+https://www.compmind.co.jp/
+事例集
+https://www.compmind.co.jp/category/cases/
+
+本日のJupyter notebook教材
+https://github.com/cm-koga/anomalib-workshop
+
+Anomalibモデルがつかえる簡易外観検査アプリ
+https://github.com/cm-koga/anomalib-compact-inspection-system
