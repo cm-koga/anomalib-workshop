@@ -3,6 +3,9 @@ https://www.compmind.co.jp/
 事例集
 https://www.compmind.co.jp/category/cases/
 
+本日の資料
+https://github.com/cm-koga/assets/releases/download/workshop/Anomalib_workshop_20260319_ver02.pdf
+
 本日のJupyter notebook教材
 https://github.com/cm-koga/anomalib-workshop
 
